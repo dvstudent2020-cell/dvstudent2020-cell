@@ -19,7 +19,7 @@
 
 <p align="left">
 Hey, welcome to my GitHub!<br>
-I'm a <strong>16-year-old indie game developer</strong> from Ukraine <br><br>
+I'm a <strong>16-year-old indie game developer</strong> from Ukraine 🇺🇦<br><br>
 Even though times are tough, I keep learning and pushing toward my goals every day.<br><br>
 My main focus is <strong>game development</strong> — I work in <strong>Unreal Engine</strong> and actively create projects in <strong>UEFN</strong> for Fortnite.<br>
 Since I'm a solo studio, I also handle <strong>Blender</strong> for 3D art and do video editing whenever I can.<br>
@@ -35,48 +35,92 @@ Thanks for stopping by — it really means a lot! 🦈
 <h3 align="left">🛠 Tech & Tools</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=unrealengine" height="40" alt="Unreal Engine" title="Unreal Engine" />
+  <a href="https://www.unrealengine.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unrealengine" height="40" alt="Unreal Engine" title="Unreal Engine" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" title="Blender" />
+  <a href="https://www.fortnite.com/creative" target="_blank">
+    <img src="https://img.shields.io/badge/UEFN-0a0a0a?style=flat-square&logo=epicgames&logoColor=white" height="40" alt="UEFN" title="Unreal Editor for Fortnite" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
+  <a href="https://www.blender.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" title="Blender" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Adobe Photoshop" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" title="Adobe Premiere Pro" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Photoshop" />
+  <a href="https://www.make.com" target="_blank">
+    <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" height="40" alt="Make" title="Make (Integromat)" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" title="Premiere Pro" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
+  </a>
+  <img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
+  </a>
+  <img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
+  </a>
 </div>
 
 ###
 
 <h1></h1>
 
-<div align="center">
+<h3 align="left">🌐 Social Media</h3>
 
-[![YouTube Games](https://img.shields.io/badge/▶_Shark_Games-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SharkGamesFCM)
-[![YouTube Dev](https://img.shields.io/badge/▶_SharkDV20-cc0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SharkDV20)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sharkdv20)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharkdv20)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SharkGames20)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xydyptgM7)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharkdv20)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sharkdv20)
-
+<div align="left">
+  <a href="https://www.youtube.com/@SharkGamesFCM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube Shark Games" title="YouTube — Shark Games" />
+  </a>
+  <img width="12" />
+  <a href="https://www.youtube.com/@SharkDV20" target="_blank">
+    <img src="https://img.shields.io/badge/▶-cc0000?style=flat-square&logo=youtube&logoColor=white" height="40" alt="YouTube SharkDV20" title="YouTube — SharkDV20" />
+  </a>
+  <img width="12" />
+  <a href="https://www.tiktok.com/@sharkdv20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tiktok" height="40" alt="TikTok" title="TikTok" />
+  </a>
+  <img width="12" />
+  <a href="https://www.instagram.com/sharkdv20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" title="Instagram" />
+  </a>
+  <img width="12" />
+  <a href="https://www.facebook.com/SharkGames20" target="_blank">
+    <img src="https://img.shields.io/badge/f-1877F2?style=flat-square&logo=facebook&logoColor=white" height="40" alt="Facebook" title="Facebook" />
+  </a>
+  <img width="12" />
+  <a href="https://discord.gg/xydyptgM7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" title="Discord" />
+  </a>
+  <img width="12" />
+  <a href="https://x.com/sharkdv20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" title="X (Twitter)" />
+  </a>
+  <img width="12" />
+  <a href="https://www.twitch.tv/sharkdv20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitch" height="40" alt="Twitch" title="Twitch" />
+  </a>
 </div>
 
 ###
 
 <h1></h1>
-  
+
 <h3 align="left">🎮 My Fortnite Island</h3>
 
 <a href="https://www.fortnite.com/@sharkdv20">
   <img src="https://img.shields.io/badge/UEFN_Creator-_@sharkdv20-8B5CF6?style=for-the-badge&logo=epicgames&logoColor=white" height="30" alt="UEFN Creator Page" />
 </a>
-
 <br>
 <a href="https://sharkcm.com/">
   <img src="https://img.shields.io/badge/🌐_SharkGames_Website-1e1b4b?style=for-the-badge&logoColor=white" height="30" alt="Shark Games Website" />
