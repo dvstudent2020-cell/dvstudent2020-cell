@@ -78,7 +78,7 @@ Thanks for stopping by — it really means a lot! 🦈
 
 ### 🌐 Social Media
 
-- [YouTube — Shark Games](https://www.youtube.com/@SharkGamesFCM)
+- <img src="https://img.shields.io/badge/▶-cc0000?style=flat-square&logo=youtube&logoColor=white" height="40" alt="YouTube SharkDV20" title="YouTube — SharkDV20" /> [YouTube — Shark Games](https://www.youtube.com/@SharkGamesFCM)
 - [YouTube — SharkDV20](https://www.youtube.com/@SharkDV20)
 - [TikTok](https://www.tiktok.com/@sharkdv20)
 - [Instagram](https://www.instagram.com/sharkdv20)
