@@ -78,9 +78,9 @@ Thanks for stopping by — it really means a lot! 🦈
 
 ### 🌐 Social Media
 
- <img src="https://img.shields.io/badge/▶-cc0000?style=flat-square&logo=youtube&logoColor=white" height="40" alt="YouTube SharkDV20" title="YouTube — SharkDV20" />   [YouTube — Shark Games](https://www.youtube.com/@SharkGamesFCM)
- <img src="https://img.shields.io/badge/▶-cc0000?style=flat-square&logo=youtube&logoColor=white" height="40" alt="YouTube SharkDV20" title="YouTube — SharkDV20" />   [YouTube — SharkDV20](https://www.youtube.com/@SharkDV20)
- <img src="https://skillicons.dev/icons?i=tiktok" height="40" alt="TikTok" title="TikTok" />   [TikTok](https://www.tiktok.com/@sharkdv20)
+-  <img src="https://img.shields.io/badge/▶-cc0000?style=flat-square&logo=youtube&logoColor=white" height="40" alt="YouTube SharkDV20" title="YouTube — SharkDV20" />   [YouTube — Shark Games](https://www.youtube.com/@SharkGamesFCM)
+-  <img src="https://img.shields.io/badge/▶-cc0000?style=flat-square&logo=youtube&logoColor=white" height="40" alt="YouTube SharkDV20" title="YouTube — SharkDV20" />   [YouTube — SharkDV20](https://www.youtube.com/@SharkDV20)
+-  <img src="https://skillicons.dev/icons?i=tiktok" height="40" alt="TikTok" title="TikTok" />   [TikTok](https://www.tiktok.com/@sharkdv20)
 - [Instagram](https://www.instagram.com/sharkdv20)
 - [Facebook](https://www.facebook.com/SharkGames20)
 - [Discord](https://discord.gg/xydyptgM7)
