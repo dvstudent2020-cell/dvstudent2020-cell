@@ -38,7 +38,7 @@ Thanks for stopping by — it really means a lot! 🦈
   <a href="https://www.unrealengine.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=unrealengine" height="40" alt="Unreal Engine" title="Unreal Engine" />
   </a>
-  <img width="12" />
+  <img width="40" />
   <a href="https://www.fortnite.com/creative" target="_blank">
     <img src="https://img.shields.io/badge/UEFN-0a0a0a?style=flat-square&logo=epicgames&logoColor=white" height="70" alt="UEFN" title="Unreal Editor for Fortnite" />
   </a>
