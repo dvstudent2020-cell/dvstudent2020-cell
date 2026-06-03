@@ -30,7 +30,9 @@ Thanks for stopping by — it really means a lot! 🦈
 
 <h1></h1>
 
-<h3 align="left">🛠 Tech & Tools</h3>
+<h3 align="center">🛠 Tech & Tools</h3>
+
+<h3></h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unrealengine" height="40" alt="Unreal Engine" title="Unreal Engine" />
