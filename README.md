@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hey 👋 I'm Daniil Vakar</h1>
-<h3 align="center">🎮 Indie Game Developer · 🇺🇦 Ukraine · 🦈 Shark Games</h3>
+<h3 align="center">🎮 Indie Game Developer · Ukraine · 🦈 Shark Games</h3>
 
 ###
 
@@ -29,12 +29,12 @@
 </div>
 
 ###
-
+<h1></h1>
 <h3 align="left">👾 About Me</h3>
 
 <p align="left">
 Hey, welcome to my GitHub!<br>
-I'm a <strong>16-year-old indie game developer</strong> from Ukraine 🇺🇦<br><br>
+I'm a <strong>16-year-old indie game developer</strong> from Ukraine <br><br>
 Even though times are tough, I keep learning and pushing toward my goals every day.<br><br>
 My main focus is <strong>game development</strong> — I work in <strong>Unreal Engine</strong> and actively create projects in <strong>UEFN</strong> for Fortnite.<br>
 Since I'm a solo studio, I also handle <strong>Blender</strong> for 3D art and do video editing whenever I can.<br>
