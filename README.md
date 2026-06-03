@@ -40,7 +40,7 @@ Thanks for stopping by — it really means a lot! 🦈
   </a>
   <img width="12" />
   <a href="https://www.fortnite.com/creative" target="_blank">
-    <img src="https://img.shields.io/badge/UEFN-0a0a0a?style=flat-square&logo=epicgames&logoColor=white" height="40" alt="UEFN" title="Unreal Editor for Fortnite" />
+    <img src="https://img.shields.io/badge/UEFN-0a0a0a?style=flat-square&logo=epicgames&logoColor=white" height="70" alt="UEFN" title="Unreal Editor for Fortnite" />
   </a>
   <img width="12" />
   <a href="https://www.blender.org" target="_blank">
