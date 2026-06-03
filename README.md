@@ -78,46 +78,16 @@ Thanks for stopping by — it really means a lot! 🦈
 
 <h3 align="left">🌐 Social Media</h3>
 
-<div align="left">
-<ul>
-    <li><a href="https://www.youtube.com/@SharkGamesFCM" target="_blank">
-    <p "Youtube" />
-  </a></li>
-    <li>Банани</li>
-    <li>Апельсини</li>
-</ul>
-  <a href="https://www.youtube.com/@SharkGamesFCM" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube Shark Games" title="YouTube — Shark Games" />
-  </a>
-  <img width="12" />
-  <a href="https://www.youtube.com/@SharkDV20" target="_blank">
-    <img src="https://img.shields.io/badge/▶-cc0000?style=flat-square&logo=youtube&logoColor=white" height="40" alt="YouTube SharkDV20" title="YouTube — SharkDV20" />
-  </a>
-  <img width="12" />
-  <a href="https://www.tiktok.com/@sharkdv20" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" height="40" alt="TikTok" title="TikTok" />
-  </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/sharkdv20" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" title="Instagram" />
-  </a>
-  <img width="12" />
-  <a href="https://www.facebook.com/SharkGames20" target="_blank">
-    <img src="https://img.shields.io/badge/f-1877F2?style=flat-square&logo=facebook&logoColor=white" height="40" alt="Facebook" title="Facebook" />
-  </a>
-  <img width="12" />
-  <a href="https://discord.gg/xydyptgM7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" title="Discord" />
-  </a>
-  <img width="12" />
-  <a href="https://x.com/sharkdv20" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" title="X (Twitter)" />
-  </a>
-  <img width="12" />
-  <a href="https://www.twitch.tv/sharkdv20" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitch" height="40" alt="Twitch" title="Twitch" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.youtube.com/@SharkGamesFCM">YouTube — Shark Games</a> •
+  <a href="https://www.youtube.com/@SharkDV20">YouTube — SharkDV20</a> •
+  <a href="https://www.tiktok.com/@sharkdv20">TikTok</a> •
+  <a href="https://www.instagram.com/sharkdv20">Instagram</a> •
+  <a href="https://www.facebook.com/SharkGames20">Facebook</a> •
+  <a href="https://discord.gg/xydyptgM7">Discord</a> •
+  <a href="https://x.com/sharkdv20">X</a> •
+  <a href="https://www.twitch.tv/sharkdv20">Twitch</a>
+</p>
 
 ###
 
