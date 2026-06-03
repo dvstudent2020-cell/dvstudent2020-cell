@@ -35,40 +35,40 @@ Thanks for stopping by — it really means a lot! 🦈
 <h3 align="left">🛠 Tech & Tools</h3>
 
 <div align="left">
-  <a href="https://www.unrealengine.com" target="_blank">
+  <a>
     <img src="https://skillicons.dev/icons?i=unrealengine" height="40" alt="Unreal Engine" title="Unreal Engine" />
   </a>
-  <img width="40" />
-  <a href="https://www.fortnite.com/creative" target="_blank">
-    <img src="https://img.shields.io/badge/UEFN-0a0a0a?style=flat-square&logo=epicgames&logoColor=white" height="70" alt="UEFN" title="Unreal Editor for Fortnite" />
-  </a>
   <img width="12" />
-  <a href="https://www.blender.org" target="_blank">
+  <a>
     <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" title="Blender" />
   </a>
   <img width="12" />
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <a>
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Adobe Photoshop" />
   </a>
   <img width="12" />
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <a>
     <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" title="Adobe Premiere Pro" />
   </a>
   <img width="12" />
-  <a href="https://www.make.com" target="_blank">
-    <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" height="40" alt="Make" title="Make (Integromat)" />
-  </a>
-  <img width="12" />
-  <a href="https://www.python.org" target="_blank">
+  <a>
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a>
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a>
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
+  </a>
+  <img width="12" />
+  <a>
+    <img src="https://img.shields.io/badge/UEFN-0a0a0a?style=flat-square&logo=epicgames&logoColor=white" height="70" alt="UEFN" title="Unreal Editor for Fortnite" />
+  </a>
+  <img width="12" />
+  <a>
+    <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" height="40" alt="Make" title="Make (Integromat)" />
   </a>
 </div>
 
