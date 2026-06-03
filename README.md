@@ -76,18 +76,16 @@ Thanks for stopping by — it really means a lot! 🦈
 
 <h1></h1>
 
-<h3 align="left">🌐 Social Media</h3>
+### 🌐 Social Media
 
-<p align="left">
-  <a href="https://www.youtube.com/@SharkGamesFCM">YouTube — Shark Games</a> •
-  <a href="https://www.youtube.com/@SharkDV20">YouTube — SharkDV20</a> •
-  <a href="https://www.tiktok.com/@sharkdv20">TikTok</a> •
-  <a href="https://www.instagram.com/sharkdv20">Instagram</a> •
-  <a href="https://www.facebook.com/SharkGames20">Facebook</a> •
-  <a href="https://discord.gg/xydyptgM7">Discord</a> •
-  <a href="https://x.com/sharkdv20">X</a> •
-  <a href="https://www.twitch.tv/sharkdv20">Twitch</a>
-</p>
+- [YouTube — Shark Games](https://www.youtube.com/@SharkGamesFCM)
+- [YouTube — SharkDV20](https://www.youtube.com/@SharkDV20)
+- [TikTok](https://www.tiktok.com/@sharkdv20)
+- [Instagram](https://www.instagram.com/sharkdv20)
+- [Facebook](https://www.facebook.com/SharkGames20)
+- [Discord](https://discord.gg/xydyptgM7)
+- [X](https://x.com/sharkdv20)
+- [Twitch](https://www.twitch.tv/sharkdv20)
 
 ###
 
