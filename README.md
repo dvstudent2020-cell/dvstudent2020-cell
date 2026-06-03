@@ -81,7 +81,7 @@ Thanks for stopping by — it really means a lot! 🦈
 <div align="left">
 <ul>
     <li><a href="https://www.youtube.com/@SharkGamesFCM" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube Shark Games" title="YouTube — Shark Games" />
+    <p "Youtube" />
   </a></li>
     <li>Банани</li>
     <li>Апельсини</li>
