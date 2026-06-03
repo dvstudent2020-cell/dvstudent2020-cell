@@ -58,6 +58,8 @@ Thanks for stopping by — it really means a lot! 🦈
 
 <h3 align="center">🌐 Social Media</h3>
 
+<br></dr>
+
 <div align="center">
   <a href="https://www.youtube.com/@SharkGamesFCM"><img src="https://img.shields.io/badge/YouTube_Shark_Games-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <img width="10" />
@@ -81,6 +83,8 @@ Thanks for stopping by — it really means a lot! 🦈
 <h1></h1>
 
 <h3 align="center">🎮 My Works</h3>
+
+<br></dr>
 
 <div align="center">
 
