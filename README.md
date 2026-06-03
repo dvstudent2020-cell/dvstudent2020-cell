@@ -28,84 +28,70 @@ I publish my Blender work on <strong>Fab</strong>.<br><br>
 Thanks for stopping by — it really means a lot! 🦈
 </p>
 
-###
-
 <h1></h1>
 
 <h3 align="left">🛠 Tech & Tools</h3>
 
 <div align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=unrealengine" height="40" alt="Unreal Engine" title="Unreal Engine" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=unrealengine" height="40" alt="Unreal Engine" title="Unreal Engine" />
   <img width="12" />
-  <a>
-    <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" title="Blender" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" title="Blender" />
   <img width="12" />
-  <a>
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Adobe Photoshop" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Adobe Photoshop" />
   <img width="12" />
-  <a>
-    <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" title="Adobe Premiere Pro" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" title="Adobe Premiere Pro" />
   <img width="12" />
-  <a>
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
   <img width="12" />
-  <a>
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <a>
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <a>
-    <img src="https://img.shields.io/badge/UEFN-0a0a0a?style=flat-square&logo=epicgames&logoColor=white" height="70" alt="UEFN" title="Unreal Editor for Fortnite" />
-  </a>
+  <img src="https://img.shields.io/badge/UEFN-0a0a0a?style=flat-square&logo=epicgames&logoColor=white" height="40" alt="UEFN" title="Unreal Editor for Fortnite" />
   <img width="12" />
-  <a>
-    <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" height="40" alt="Make" title="Make (Integromat)" />
-  </a>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" height="40" alt="Make" title="Make (Integromat)" />
 </div>
-
-###
 
 <h1></h1>
 
-### 🌐 Social Media
+<h3 align="center">🌐 Social Media</h3>
+
 <div align="center">
   <a href="https://www.youtube.com/@SharkGamesFCM"><img src="https://img.shields.io/badge/YouTube_Shark_Games-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <img width="20" />
+  <img width="10" />
   <a href="https://www.youtube.com/@SharkDV20"><img src="https://img.shields.io/badge/YouTube_SharkDV20-cc0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <img width="20" />
+  <img width="10" />
   <a href="https://www.tiktok.com/@sharkdv20"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <img width="20" />
+  <img width="10" />
   <a href="https://www.instagram.com/sharkdv20"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img width="20" />
+  <img width="10" />
   <a href="https://www.facebook.com/SharkGames20"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <img width="20" />
+  <img width="10" />
   <a href="https://discord.gg/xydyptgM7"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <img width="20" />
+  <img width="10" />
   <a href="https://x.com/sharkdv20"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <img width="20" />
+  <img width="10" />
   <a href="https://www.twitch.tv/sharkdv20"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <img width="10" />
+  <a href="https://sharkcm.com/"><img src="https://img.shields.io/badge/🌐_SharkGames_Website-1e1b4b?style=for-the-badge&logoColor=white" /></a>
 </div>
-###
 
 <h1></h1>
 
-<h3 align="left">🎮 My Fortnite Island</h3>
+<h3 align="center">🎮 My Works</h3>
+
+<div align="center">
 
 <a href="https://www.fortnite.com/@sharkdv20">
-  <img src="https://img.shields.io/badge/UEFN_Creator-_@sharkdv20-8B5CF6?style=for-the-badge&logo=epicgames&logoColor=white" height="30" alt="UEFN Creator Page" />
+  <img src="https://img.shields.io/badge/UEFN_Creator-@sharkdv20-8B5CF6?style=for-the-badge&logo=epicgames&logoColor=white" height="30" alt="UEFN Creator Page" />
 </a>
-<br>
-<a href="https://sharkcm.com/">
-  <img src="https://img.shields.io/badge/🌐_SharkGames_Website-1e1b4b?style=for-the-badge&logoColor=white" height="30" alt="Shark Games Website" />
-</a>
+
+<br><br>
+
+> 🗺️ **Fortnite Maps** — Dropper, DeathRun, Parkour, Air Fight and more<br>
+> 🎨 **3D Assets** — Blender models published on Fab<br>
+> ⚙️ **Automations** — Make (Integromat) workflows
+
+</div>
 
 ###
