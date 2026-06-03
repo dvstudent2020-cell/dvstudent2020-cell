@@ -34,7 +34,7 @@ Thanks for stopping by — it really means a lot! 🦈
 
 <h3 align="left">🛠 Tech & Tools</h3>
 
-<div align="left">
+<div align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=unrealengine" height="40" alt="Unreal Engine" title="Unreal Engine" />
   </a>
@@ -77,15 +77,16 @@ Thanks for stopping by — it really means a lot! 🦈
 <h1></h1>
 
 ### 🌐 Social Media
-
-[![YouTube Shark Games](https://img.shields.io/badge/YouTube_Shark_Games-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SharkGamesFCM)
-[![YouTube SharkDV20](https://img.shields.io/badge/YouTube_SharkDV20-cc0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SharkDV20)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sharkdv20)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharkdv20)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SharkGames20)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xydyptgM7)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharkdv20)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sharkdv20)
+<div align="center">
+  [![YouTube Shark Games](https://img.shields.io/badge/YouTube_Shark_Games-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SharkGamesFCM)
+  [![YouTube SharkDV20](https://img.shields.io/badge/YouTube_SharkDV20-cc0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SharkDV20)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sharkdv20)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharkdv20)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SharkGames20)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xydyptgM7)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharkdv20)
+  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sharkdv20)
+</div>
 ###
 
 <h1></h1>
