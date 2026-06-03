@@ -78,14 +78,14 @@ Thanks for stopping by — it really means a lot! 🦈
 
 ### 🌐 Social Media
 
--  YouTube — Shark Games: [Link](https://www.youtube.com/@SharkGamesFCM)
--  [YouTube — SharkDV20](https://www.youtube.com/@SharkDV20)
--  [TikTok](https://www.tiktok.com/@sharkdv20)
-- [Instagram](https://www.instagram.com/sharkdv20)
-- [Facebook](https://www.facebook.com/SharkGames20)
-- [Discord](https://discord.gg/xydyptgM7)
-- [X](https://x.com/sharkdv20)
-- [Twitch](https://www.twitch.tv/sharkdv20)
+- YouTube — Shark Games: [Link](https://www.youtube.com/@SharkGamesFCM)
+- YouTube — SharkDV20: [Link](https://www.youtube.com/@SharkDV20)
+- TikTok: [Link](https://www.tiktok.com/@sharkdv20)
+- Instagram: [Link](https://www.instagram.com/sharkdv20)
+- Facebook: [Link](https://www.facebook.com/SharkGames20)
+- Discord: [Link](https://discord.gg/xydyptgM7)
+- X: [Link](https://x.com/sharkdv20)
+- Twitch: [Link](https://www.twitch.tv/sharkdv20)
 
 ###
 
