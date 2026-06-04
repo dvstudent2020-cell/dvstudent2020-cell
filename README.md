@@ -82,7 +82,27 @@ Thanks for stopping by — it really means a lot! 🦈
   <a href="https://www.linkedin.com/in/daniil-vakar-956508379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
+###
+
 <h1></h1>
+
+<h3 align="center">📚 Education</h3>
+
+<br></br>
+
+<div align="center">
+
+<a href="https://cs50.harvard.edu/">
+  <img src="https://img.shields.io/badge/CS50-Harvard_University-A51C30?style=for-the-badge&logoColor=white" />
+</a>
+<img width="10" />
+<a href="https://www.coursera.org/">
+  <img src="https://img.shields.io/badge/Epic_Games-Game_Design_(8_courses)-0078FF?style=for-the-badge&logo=epicgames&logoColor=white" />
+</a>
+
+</div>
+
+###
 
 <h3 align="center">🎮 My Works</h3>
 
