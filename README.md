@@ -86,22 +86,31 @@ Thanks for stopping by — it really means a lot! 🦈
 
 <h3 align="center">🎮 My Works</h3>
 
-<br></dr>
+<br></br>
 
 <div align="center">
 
 <a href="https://www.fortnite.com/@sharkdv20">
-  <img src="https://img.shields.io/badge/UEFN_Creator-@sharkdv20-8B5CF6?style=for-the-badge&logo=epicgames&logoColor=white" height="30" alt="UEFN Creator Page" />
+  <img src="https://img.shields.io/badge/UEFN_Creator-@sharkdv20-8B5CF6?style=for-the-badge&logo=epicgames&logoColor=white" />
 </a>
-<img width="30" />
+<img width="10" />
 <a href="https://www.fab.com/sellers/Shark%20Games">
   <img src="https://img.shields.io/badge/Fab-3D_Assets-FF6B35?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</a>
+<img width="10" />
+<a href="https://sharkcm.com/">
+  <img src="https://img.shields.io/badge/sharkcm.com-My_Website-1e1b4b?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<img width="10" />
+<a href="https://it-master.od.ua/">
+  <img src="https://img.shields.io/badge/it--master.od.ua-Web_Design-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br><br>
 
 > 🗺️ **Fortnite Maps** — Dropper, DeathRun, Parkour, Air Fight and more<br>
 > 🎨 **3D Assets** — Blender models published on Fab<br>
+> 🌐 **Web** — Built [sharkcm.com](https://sharkcm.com/) · Worked on design of [it-master.od.ua](https://it-master.od.ua/)<br>
 > ⚙️ **Automations** — Make (Integromat) workflows
 
 </div>
