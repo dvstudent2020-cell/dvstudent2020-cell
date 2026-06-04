@@ -78,6 +78,8 @@ Thanks for stopping by — it really means a lot! 🦈
   <a href="https://www.twitch.tv/sharkdv20"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <img width="10" />
   <a href="https://sharkcm.com/"><img src="https://img.shields.io/badge/🌐_SharkGames_Website-1e1b4b?style=for-the-badge&logoColor=white" /></a>
+  <img width="10" />
+  <a href="https://www.linkedin.com/in/daniil-vakar-956508379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <h1></h1>
