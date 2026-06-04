@@ -93,6 +93,9 @@ Thanks for stopping by — it really means a lot! 🦈
 <a href="https://www.fortnite.com/@sharkdv20">
   <img src="https://img.shields.io/badge/UEFN_Creator-@sharkdv20-8B5CF6?style=for-the-badge&logo=epicgames&logoColor=white" height="30" alt="UEFN Creator Page" />
 </a>
+<a href="https://www.fab.com/sellers/Shark%20Games">
+  <img src="https://img.shields.io/badge/Fab-3D_Assets-FF6B35?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</a>
 
 <br><br>
 
